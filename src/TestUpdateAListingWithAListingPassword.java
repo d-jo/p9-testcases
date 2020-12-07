@@ -1,4 +1,3 @@
-package edu.uno.tests.case3;
 
 import java.util.regex.Pattern;
 import java.io.File;
